@@ -35,14 +35,6 @@ State Engineer in Software Engineering, Big Data & Cloud Computing · AWS Certif
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [project-name](https://github.com/amansourii/project-name) | _One-line description_ | _Python, LangChain, Qdrant_ |
-| [project-name](https://github.com/amansourii/project-name) | _One-line description_ | _FastAPI, Azure OpenAI_ |
-| [project-name](https://github.com/amansourii/project-name) | _One-line description_ | _Spring Boot_ |
-
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mansourianas-0A66C2?style=flat-square)](https://www.linkedin.com/in/mansourianas/)
